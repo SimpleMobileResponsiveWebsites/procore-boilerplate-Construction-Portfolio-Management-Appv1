@@ -1,4 +1,4 @@
-Construction Portfolio Management App
+Construction Portfolio Management App - follow the below steps to setup.
 
 create package.json
 
